@@ -1,0 +1,31 @@
+E:\Semester5\Harimao-Oren-Git\Harimao oren\bin\Debug\WindowsApplication56.exe.manifest
+E:\Semester5\Harimao-Oren-Git\Harimao oren\bin\Debug\WindowsApplication56.application
+E:\Semester5\Harimao-Oren-Git\Harimao oren\bin\Debug\WindowsApplication56.exe
+E:\Semester5\Harimao-Oren-Git\Harimao oren\bin\Debug\WindowsApplication56.pdb
+E:\Semester5\Harimao-Oren-Git\Harimao oren\bin\Debug\WindowsApplication56.xml
+E:\Semester5\Harimao-Oren-Git\Harimao oren\obj\Debug\WindowsApplication1.MainProgram.resources
+E:\Semester5\Harimao-Oren-Git\Harimao oren\obj\Debug\WindowsApplication1.helpForm.resources
+E:\Semester5\Harimao-Oren-Git\Harimao oren\obj\Debug\WindowsApplication1.Resources.resources
+E:\Semester5\Harimao-Oren-Git\Harimao oren\obj\Debug\NeonTigerVsMegaman(FJR).vbproj.GenerateResource.cache
+E:\Semester5\Harimao-Oren-Git\Harimao oren\obj\Debug\NeonTigerVsMegaman(FJR).vbproj.CoreCompileInputs.cache
+E:\Semester5\Harimao-Oren-Git\Harimao oren\obj\Debug\WindowsApplication56.exe.manifest
+E:\Semester5\Harimao-Oren-Git\Harimao oren\obj\Debug\WindowsApplication56.application
+E:\Semester5\Harimao-Oren-Git\Harimao oren\obj\Debug\WindowsApplication56.exe
+E:\Semester5\Harimao-Oren-Git\Harimao oren\obj\Debug\WindowsApplication56.xml
+E:\Semester5\Harimao-Oren-Git\Harimao oren\obj\Debug\WindowsApplication56.pdb
+C:\Users\jasso\Desktop\Semester 5\CGA\PA 2\New folder\Final Folder\NeonTigerVsMegaman(FJR-IT4)\bin\Debug\WindowsApplication56.exe.manifest
+C:\Users\jasso\Desktop\Semester 5\CGA\PA 2\New folder\Final Folder\NeonTigerVsMegaman(FJR-IT4)\bin\Debug\WindowsApplication56.application
+C:\Users\jasso\Desktop\Semester 5\CGA\PA 2\New folder\Final Folder\NeonTigerVsMegaman(FJR-IT4)\bin\Debug\WindowsApplication56.exe
+C:\Users\jasso\Desktop\Semester 5\CGA\PA 2\New folder\Final Folder\NeonTigerVsMegaman(FJR-IT4)\bin\Debug\WindowsApplication56.pdb
+C:\Users\jasso\Desktop\Semester 5\CGA\PA 2\New folder\Final Folder\NeonTigerVsMegaman(FJR-IT4)\bin\Debug\WindowsApplication56.xml
+C:\Users\jasso\Desktop\Semester 5\CGA\PA 2\New folder\Final Folder\NeonTigerVsMegaman(FJR-IT4)\obj\Debug\WindowsApplication1.MainProgram.resources
+C:\Users\jasso\Desktop\Semester 5\CGA\PA 2\New folder\Final Folder\NeonTigerVsMegaman(FJR-IT4)\obj\Debug\WindowsApplication1.helpForm.resources
+C:\Users\jasso\Desktop\Semester 5\CGA\PA 2\New folder\Final Folder\NeonTigerVsMegaman(FJR-IT4)\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\jasso\Desktop\Semester 5\CGA\PA 2\New folder\Final Folder\NeonTigerVsMegaman(FJR-IT4)\obj\Debug\NeonTigerVsMegaman(FJR).vbproj.GenerateResource.cache
+C:\Users\jasso\Desktop\Semester 5\CGA\PA 2\New folder\Final Folder\NeonTigerVsMegaman(FJR-IT4)\obj\Debug\NeonTigerVsMegaman(FJR).vbproj.CoreCompileInputs.cache
+C:\Users\jasso\Desktop\Semester 5\CGA\PA 2\New folder\Final Folder\NeonTigerVsMegaman(FJR-IT4)\obj\Debug\WindowsApplication56.exe.manifest
+C:\Users\jasso\Desktop\Semester 5\CGA\PA 2\New folder\Final Folder\NeonTigerVsMegaman(FJR-IT4)\obj\Debug\WindowsApplication56.application
+C:\Users\jasso\Desktop\Semester 5\CGA\PA 2\New folder\Final Folder\NeonTigerVsMegaman(FJR-IT4)\obj\Debug\WindowsApplication56.exe
+C:\Users\jasso\Desktop\Semester 5\CGA\PA 2\New folder\Final Folder\NeonTigerVsMegaman(FJR-IT4)\obj\Debug\WindowsApplication56.xml
+C:\Users\jasso\Desktop\Semester 5\CGA\PA 2\New folder\Final Folder\NeonTigerVsMegaman(FJR-IT4)\obj\Debug\WindowsApplication56.pdb
+C:\Users\jasso\Desktop\Semester 5\CGA\PA 2\New folder\Final Folder\NeonTigerVsMegaman(FJR-IT4)\obj\Debug\NeonTigerVsMegaman(FJR).vbprojAssemblyReference.cache
